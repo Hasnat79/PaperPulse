@@ -10,7 +10,7 @@
 
 *An AI-powered research paper digest tool that helps you stay on top of the latest academic publications*
 
-[Features](##features) • [Installation](##installation) • [Usage](#usage) • [Roadmap](#roadmap) • [Contributing](#contributing)
+
 </div>
 
 ## 🌟 Features
